@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Fireworks Show</string>
+  <string name="hint_tap">Stuknij ekran, aby odpalić fajerwerk</string>
+  <string name="type_burst">Klasyczny</string>
+  <string name="type_ring">Pierścień</string>
+  <string name="type_willow">Wierzba</string>
+  <string name="type_palm">Palma</string>
+  <string name="type_crossette">Krzyżowy</string>
+  <string name="type_strobe">Migotanie</string>
+  <string name="type_double_ring">Podwójny pierścień</string>
+  <string name="type_random">Losowo</string>
+  <string name="color_rainbow">Tęcza</string>
+  <string name="action_clear">Wyczyść</string>
+  <string name="action_auto_on">Auto pokaz: WŁ.</string>
+  <string name="action_auto_off">Auto pokaz: WYŁ.</string>
+  <string name="panel_colors">Kolor</string>
+  <string name="panel_types">Typ wybuchu</string>
+</resources>

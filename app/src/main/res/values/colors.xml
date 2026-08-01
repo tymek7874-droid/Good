@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="sky_black">#05060B</color>
+  <color name="surface_panel">#141821</color>
+  <color name="surface_card">#1E2430</color>
+  <color name="surface_card_alt">#252C3A</color>
+  <color name="divider_subtle">#2E3542</color>
+  <color name="text_primary">#FFFFFF</color>
+  <color name="text_secondary">#A7B0C0</color>
+  <color name="accent_primary">#00E5A0</color>
+
+  <!-- Firework spark palette -->
+  <color name="spark_red">#FF3B30</color>
+  <color name="spark_orange">#FF9500</color>
+  <color name="spark_yellow">#FFD60A</color>
+  <color name="spark_green">#34C759</color>
+  <color name="spark_cyan">#32D6C8</color>
+  <color name="spark_blue">#2979FF</color>
+  <color name="spark_purple">#BF5AF2</color>
+  <color name="spark_pink">#FF5AB0</color>
+</resources>

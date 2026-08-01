@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <!-- radiating spark lines -->
+  <path android:strokeColor="#FFD60A" android:strokeWidth="3.2" android:pathData="M54,54 L54,26"/>
+  <path android:strokeColor="#FF9500" android:strokeWidth="3.2" android:pathData="M54,54 L74,34"/>
+  <path android:strokeColor="#FF3B30" android:strokeWidth="3.2" android:pathData="M54,54 L82,54"/>
+  <path android:strokeColor="#BF5AF2" android:strokeWidth="3.2" android:pathData="M54,54 L74,74"/>
+  <path android:strokeColor="#2979FF" android:strokeWidth="3.2" android:pathData="M54,54 L54,82"/>
+  <path android:strokeColor="#32D6C8" android:strokeWidth="3.2" android:pathData="M54,54 L34,74"/>
+  <path android:strokeColor="#34C759" android:strokeWidth="3.2" android:pathData="M54,54 L26,54"/>
+  <path android:strokeColor="#FF5AB0" android:strokeWidth="3.2" android:pathData="M54,54 L34,34"/>
+
+  <path android:strokeColor="#FFD60A" android:strokeWidth="2" android:pathData="M54,54 L66,20"/>
+  <path android:strokeColor="#FF9500" android:strokeWidth="2" android:pathData="M54,54 L88,44"/>
+  <path android:strokeColor="#BF5AF2" android:strokeWidth="2" android:pathData="M54,54 L88,64"/>
+  <path android:strokeColor="#2979FF" android:strokeWidth="2" android:pathData="M54,54 L66,88"/>
+  <path android:strokeColor="#34C759" android:strokeWidth="2" android:pathData="M54,54 L42,88"/>
+  <path android:strokeColor="#32D6C8" android:strokeWidth="2" android:pathData="M54,54 L20,64"/>
+  <path android:strokeColor="#FF5AB0" android:strokeWidth="2" android:pathData="M54,54 L20,44"/>
+  <path android:strokeColor="#FF3B30" android:strokeWidth="2" android:pathData="M54,54 L42,20"/>
+
+  <!-- core burst -->
+  <path android:fillColor="#FFFFFF" android:pathData="M54,54 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0"/>
+  <path android:fillColor="#FFD60A" android:pathData="M54,54 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"/>
+</vector>
